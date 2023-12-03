@@ -1,3 +1,1 @@
-In this project I have made an anime recommendations system.
-Recommendations are given or are based on three models Popularity Means, Cosine Simillarity and Neural Collaborative Filtering using Tensorflow.
-This project gives an idea about future of and use of recommendation system based on particular requirements.
+In my project, I've developed an anime recommendation system that utilizes three distinct models: Popularity Means, Cosine Similarity, and Neural Collaborative Filtering implemented with Tensorflow. This endeavor not only provides anime suggestions but also offers insights into the potential future and diverse applications of recommendation systems tailored to specific needs.
